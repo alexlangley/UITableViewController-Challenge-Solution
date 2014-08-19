@@ -1,5 +1,5 @@
 //
-//  TBViewController.h
+//  TBTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Alex Langley on 8/19/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TBViewController : UIViewController
+@interface TBTableViewController : UITableViewController
 
 @end
